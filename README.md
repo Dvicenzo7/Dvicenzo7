@@ -10,6 +10,12 @@
 
 
  <br>
+ 
+ <div align="center">
+<a href="https://www.linkedin.com/in/daniel-vicenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <a href = "mailto:daniel.vicenzo77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <div/>
+ 
 <div align="center">
 <a href="https://github.com/IgorCaenfa">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorCaenfa&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
@@ -17,11 +23,7 @@
 </div>
 <br>
 <br>
-<div align="center">
-<a href="https://www.linkedin.com/in/daniel-vicenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- <a href = "mailto:daniel.vicenzo77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <div/>
- 
+
  
  
 <br>

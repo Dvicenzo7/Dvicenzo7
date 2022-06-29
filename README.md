@@ -6,8 +6,8 @@
 <br>
 <div align="center">
 <a href="https://github.com/Dvicenzo7">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mateusalvesc&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalvesc&layout=compact&langs_count=7&theme=yeblu"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorCaenfa&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCaenfa&layout=compact&langs_count=7&theme=default"/>
 </div>
 <br>
  <h2 align="center">Some Technologies, Languages, Frameworks and others<h2/>

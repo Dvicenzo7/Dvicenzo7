@@ -28,17 +28,15 @@
       <img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/>
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
       <img src="https://img.icons8.com/color/48/000000/java.png"/>
-      
-   
-   
-   
-   
-   
- <!--[Snake animation]--><img height="145" src="https://github.com/Dvicenzo7/Dvicenzo7/blob/output/github-contribution-grid-snake.svg"/>
+     
   
    
   </div>
   
-  
- 
+  <div>
    
+   
+ <!--[Snake animation]--><img height="145" src="https://github.com/Dvicenzo7/Dvicenzo7/blob/output/github-contribution-grid-snake.svg"/>
+   
+   
+  </div>

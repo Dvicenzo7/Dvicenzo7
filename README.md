@@ -26,5 +26,6 @@
       
   </div>
   
-  
+    <!--[Snake animation]--><img height="145" src="https://github.com/Dvicenzo7/Dvicenzo7/blob/output/github-contribution-grid-snake.svg"/>
+
   

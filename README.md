@@ -11,8 +11,8 @@
 <br>
 <div align="center">
 <a href="https://github.com/Dvicenzo7">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dvicenzo7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvicenzo7&layout=compact&langs_count=7&theme=gotham"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dvicenzo7&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvicenzo7&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 <br>
  <h2 align="center">Algumas tecnologias, linguagens, frameworks e outros<h2/>
@@ -29,10 +29,10 @@
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
       <img src="https://img.icons8.com/color/48/000000/java.png"/>
      
-  
+  <br>
    
   </div>
-  
+ 
   <div>
    
    

@@ -29,9 +29,16 @@
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
       <img src="https://img.icons8.com/color/48/000000/java.png"/>
       
+   
+   
+   
+   
+   
+   ![Snake animation](https://github.com/Dvicenzo7/Dvicenzo7/blob/output/github-contribution-grid-snake.svg)
+   
+   
   </div>
   
   
  
-   ![Snake animation](https://github.com/Dvicenzo7/Dvicenzo7/blob/output/github-contribution-grid-snake.svg)
-
+   

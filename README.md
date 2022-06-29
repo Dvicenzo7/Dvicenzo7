@@ -10,7 +10,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvicenzo7&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 <br>
- <h2 align="center">Some Technologies, Languages, Frameworks and others<h2/>
+ <h2 align="center">Algumas tecnologias, linguagens, frameworks e outros<h2/>
   
   <div align="center" >
       <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
@@ -23,7 +23,7 @@
       <img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/>
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
       <img src="https://img.icons8.com/color/48/000000/java.png"/>
-      <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
+      
   </div>
   
   

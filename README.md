@@ -1,6 +1,6 @@
 <h1 align="center" >Olá , eu me chamo Daniel Vicenzo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p aling="center"> Apredendo a programar com Instituto Proa </p> 
+<p align="center"> Apredendo a programar com Instituto Proa </p> 
 
 
 <div align="center">
